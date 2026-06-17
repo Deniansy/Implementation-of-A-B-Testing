@@ -17,5 +17,6 @@ Fast Food Marketing Campaign [(https://www.kaggle.com/datasets/chebotinaa/fast-f
 * Furthermore, under certain conditions, the three marketing strategies showed significant differences in total sales. This indicates that one or two strategies were deemed more effective than the others.
 * For more detailed analysis and recommendations, please refer to the listed pdf documentation.
 If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on LinkedIn: [https://www.linkedin.com/in/deni-ansyah]
+
 #abtesting #marketresearch #marketingcampaign #python #anova #kruskalwallis #dashboard #powerbi
 
